@@ -9,7 +9,8 @@ import (
     "github.com/suman181/yourdb/internal/storage"
     "github.com/suman181/yourdb/internal/parser"
     "github.com/suman181/yourdb/internal/bytecode"
-    "github.com/suman181/yourdb/internal/vm"
+    "github.com/suman181/yourdb/internal/common"
+
 )
 
 type DB struct {

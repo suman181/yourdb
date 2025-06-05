@@ -7,7 +7,8 @@ import (
     "fmt"
 
     "github.com/suman181/yourdb/internal/bytecode"
-    "github.com/suman181/yourdb/internal/db"
+    "github.com/suman181/yourdb/internal/common"
+
 )
 
 // VM executes bytecode instructions using a DB.
