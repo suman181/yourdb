@@ -7,7 +7,7 @@ import (
     "os"
     "strings"
 
-    "github.com/example/db/internal/db"
+    "github.com/suman181/yourdb/internal/db"
 )
 
 // Start starts the REPL loop.

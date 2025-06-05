@@ -2,7 +2,7 @@
 // internal/bytecode/bytecode.go
 package bytecode
 
-import "github.com/example/db/internal/ast"
+import "github.com/suman181/yourdb/internal/ast"
 
 type OpCode int
 

@@ -6,8 +6,8 @@ import (
     "fmt"
     "strings"
 
-    "github.com/example/db/internal/ast"
-    "github.com/example/db/internal/tokenizer"
+    "github.com/suman181/yourdb/internal/ast"
+    "github.com/suman181/yourdb/internal/tokenizer"
 )
 
 // Parse builds an AST from an input string.

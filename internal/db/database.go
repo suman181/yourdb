@@ -4,12 +4,12 @@ package db
 
 import (
     "fmt"
-
-    "github.com/example/db/internal/btree"
-    "github.com/example/db/internal/storage"
-    "github.com/example/db/internal/parser"
-    "github.com/example/db/internal/bytecode"
-    "github.com/example/db/internal/vm"
+		
+    "github.com/suman181/yourdb/internal/btree"
+    "github.com/suman181/yourdb/internal/storage"
+    "github.com/suman181/yourdb/internal/parser"
+    "github.com/suman181/yourdb/internal/bytecode"
+    "github.com/suman181/yourdb/internal/vm"
 )
 
 type DB struct {
